@@ -1,0 +1,3 @@
+#!bin/bash
+ls -t . | hea#!bin/bash
+ls -t . | headd
